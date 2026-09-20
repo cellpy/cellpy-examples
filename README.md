@@ -1,6 +1,4 @@
-<img src="cellpy-icon-bw.svg" height="80" alt="cellpy-icon">
-
-# cellpy-examples
+# <img src="cellpy-icon-bw.svg" height="40" alt="cellpy-icon"> cellpy-examples
 
 Formerly **`Examples`** (`cellpy/Examples` → [`cellpy/cellpy-examples`](https://github.com/cellpy/cellpy-examples)).
 
